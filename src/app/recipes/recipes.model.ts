@@ -1,6 +1,9 @@
 export class Recipe {
-	
-	constructor(argument) {
-		// code...
+	public name :string;
+	public description :string;
+	public imagePath : string;
+
+	contructor(){
+		
 	}
 }
